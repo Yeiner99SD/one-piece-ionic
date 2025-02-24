@@ -8,7 +8,7 @@ export const environment = {
 
   seasons: '/seasons',
   episodes_by_season: '/episodes_by_season/',
-  episode : '/episode'
+  episode : '/episode/'
 };
 
 /*

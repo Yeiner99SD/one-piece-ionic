@@ -20,6 +20,6 @@ export class OnePieceService {
 
 
   getEpisodesByNumber(number: string){
-    return this.http.get(environment.baseUrl + environment.episode+ number )
+    return this.http.get(environment.baseUrl + environment.episode + number )
   }
 }
